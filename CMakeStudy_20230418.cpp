@@ -3,10 +3,8 @@
 
 #include "CMakeStudy_20230418.h"
 
-using namespace std;
-
 int main()
 {
-	cout << "Hello CMake." << endl;
-	return 0;
+  std::cout << "Hello World! :) " << std::endl;
+  return 0;
 }
